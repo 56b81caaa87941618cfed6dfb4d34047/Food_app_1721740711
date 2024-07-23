@@ -26,5 +26,9 @@
     {
         "level": 1,
         "task_description": "Add field above email to accept user name"
+    },
+    {
+        "level": 1,
+        "task_description": "Add field above email to accept user name"
     }
 ]
