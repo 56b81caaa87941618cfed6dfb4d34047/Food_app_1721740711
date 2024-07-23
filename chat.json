@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the username field to be mandatory or optional for users during registration?\", \"option1\": \"Mandatory\", \"option2\": \"Optional\"}, {\"question 2\": \"Do you prefer the username to have any specific restrictions, such as minimum and maximum length or allowed characters?\", \"option1\": \"Yes, apply specific restrictions\", \"option2\": \"No, any input is acceptable\"}], \"input_token_count\": 259, \"output_token_count\": 95, \"time_taken\": \"0:00:03.024517\"}",
+        "message_id": "guest23072024132636",
+        "timestamp": "23072024132641",
+        "component_file_name": "basic_login_form_1721740898",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Noted, I'll add a field for user name above email.",
         "message_id": "guest23072024132636",
