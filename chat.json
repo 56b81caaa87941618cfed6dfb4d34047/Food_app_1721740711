@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the header text change to apply across all pages or only specific ones?\", \"option1\": \"Apply the change across all pages\", \"option2\": \"Apply the change only to specific pages (please specify which ones)\"}, {\"question 2\": \"Do you have a preferred font style or size for the new header text 'Food make life'?\", \"option1\": \"Use the default font style and size\", \"option2\": \"I have a specific font style and size in mind (please specify)\"}], \"input_token_count\": 258, \"output_token_count\": 120, \"time_taken\": \"0:00:06.186588\"}",
+        "message_id": "guest23072024131931",
+        "timestamp": "23072024131941",
+        "component_file_name": "simple_hero_component_1721740712",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a customizable banner area below the header for promotional messages\", \"checked\": true}, {\"feature\": \"Implement a search bar in the header for quick menu item lookups\", \"checked\": false}, {\"feature\": \"Incorporate a language toggle in the header for multilingual support\", \"checked\": false}, {\"feature\": \"Add a notification icon in the header for order updates and news\", \"checked\": true}, {\"feature\": \"Integrate a 'Favorites' or 'Recently Ordered' quick access link in the header\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 117, \"time_taken\": \"0:00:06.076654\"}",
         "message_id": "guest23072024131931",
