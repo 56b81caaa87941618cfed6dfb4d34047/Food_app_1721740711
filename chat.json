@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll update the header to \"Food make life\".",
+        "message_id": "guest23072024131931",
+        "timestamp": "23072024131933",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change header text to Food make life",
         "message_id": "guest23072024131931",
