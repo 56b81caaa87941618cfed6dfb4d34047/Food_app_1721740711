@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Noted, I'll add a field for user name above email.",
+        "message_id": "guest23072024132636",
+        "timestamp": "23072024132638",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add field above email to accept user name",
         "message_id": "guest23072024132636",
