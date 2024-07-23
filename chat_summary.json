@@ -12,5 +12,11 @@
         "content": "Change header text to Food make life",
         "timestamp": "23072024131932",
         "message_id": "guest23072024131931"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll update the header to \"Food make life\".",
+        "timestamp": "23072024131933",
+        "message_id": "guest23072024131931"
     }
 ]
