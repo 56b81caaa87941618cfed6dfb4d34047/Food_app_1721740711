@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1721740712",
+        "role": "chat_acknowledge",
+        "content": "I understand, working on adding radio button for gender.",
+        "message_id": "guest23072024132237",
+        "timestamp": "23072024132238",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "Change header text to Food make life",
-        "timestamp": "23072024131932",
-        "message_id": "guest23072024131931"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll update the header to \"Food make life\".",
-        "timestamp": "23072024131933",
-        "message_id": "guest23072024131931"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a customizable banner area below the header for promotional messages\", \"checked\": true}, {\"feature\": \"Implement a search bar in the header for quick menu item lookups\", \"checked\": false}, {\"feature\": \"Incorporate a language toggle in the header for multilingual support\", \"checked\": false}, {\"feature\": \"Add a notification icon in the header for order updates and news\", \"checked\": true}, {\"feature\": \"Integrate a 'Favorites' or 'Recently Ordered' quick access link in the header\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 117, \"time_taken\": \"0:00:06.076654\"}",
-        "timestamp": "23072024131941",
-        "message_id": "guest23072024131931"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the header text change to apply across all pages or only specific ones?\", \"option1\": \"Apply the change across all pages\", \"option2\": \"Apply the change only to specific pages (please specify which ones)\"}, {\"question 2\": \"Do you have a preferred font style or size for the new header text 'Food make life'?\", \"option1\": \"Use the default font style and size\", \"option2\": \"I have a specific font style and size in mind (please specify)\"}], \"input_token_count\": 258, \"output_token_count\": 120, \"time_taken\": \"0:00:06.186588\"}",
-        "timestamp": "23072024131941",
-        "message_id": "guest23072024131931"
-    },
-    {
-        "role": "user",
-        "content": "Make Get Started button with Green background and white text",
-        "timestamp": "23072024132030",
-        "message_id": "guest23072024132028"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Thanks for letting me know. I will create a Get Started button with green background and white text.",
-        "timestamp": "23072024132030",
-        "message_id": "guest23072024132028"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Should the 'Get Started' button change color when hovered over or clicked?\", \"option1\": \"Yes, change color on hover/click for visual feedback.\", \"option2\": \"No, keep the button color consistent regardless of user interactions.\"}, {\"question 2\": \"Do you prefer a specific shade of green for the button's background to match your brand's color scheme?\", \"option1\": \"Yes, I will provide the exact hex code for the green shade.\", \"option2\": \"No specific shade, any visually appealing green would work.\"}], \"input_token_count\": 261, \"output_token_count\": 125, \"time_taken\": \"0:00:03.921363\"}",
-        "timestamp": "23072024132034",
-        "message_id": "guest23072024132028"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Sign Up' button with blue background and white text for contrast\", \"checked\": true}, {\"feature\": \"Implement a 'Login with Facebook' option for faster sign-ups\", \"checked\": false}, {\"feature\": \"Include a 'Forgot Password?' link under the 'Get Started' button for user convenience\", \"checked\": true}, {\"feature\": \"Integrate a 'Skip' button for users who want to explore the app before signing up\", \"checked\": false}, {\"feature\": \"Use an animated transition effect when moving from the 'Get Started' screen to the next screen\", \"checked\": true}, {\"feature\": \"Add tooltips or a help icon explaining the benefits of signing up\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 153, \"time_taken\": \"0:00:04.804592\"}",
-        "timestamp": "23072024132035",
-        "message_id": "guest23072024132028"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add radio button for gender ",
+        "message_id": "guest23072024132237",
+        "timestamp": "23072024132238",
+        "component_file_name": "basic_login_form_1721740898",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Sign Up' button with blue background and white text for contrast\", \"checked\": true}, {\"feature\": \"Implement a 'Login with Facebook' option for faster sign-ups\", \"checked\": false}, {\"feature\": \"Include a 'Forgot Password?' link under the 'Get Started' button for user convenience\", \"checked\": true}, {\"feature\": \"Integrate a 'Skip' button for users who want to explore the app before signing up\", \"checked\": false}, {\"feature\": \"Use an animated transition effect when moving from the 'Get Started' screen to the next screen\", \"checked\": true}, {\"feature\": \"Add tooltips or a help icon explaining the benefits of signing up\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 153, \"time_taken\": \"0:00:04.804592\"}",
+        "message_id": "guest23072024132028",
+        "timestamp": "23072024132035",
+        "component_file_name": "simple_hero_component_1721740712",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Should the 'Get Started' button change color when hovered over or clicked?\", \"option1\": \"Yes, change color on hover/click for visual feedback.\", \"option2\": \"No, keep the button color consistent regardless of user interactions.\"}, {\"question 2\": \"Do you prefer a specific shade of green for the button's background to match your brand's color scheme?\", \"option1\": \"Yes, I will provide the exact hex code for the green shade.\", \"option2\": \"No specific shade, any visually appealing green would work.\"}], \"input_token_count\": 261, \"output_token_count\": 125, \"time_taken\": \"0:00:03.921363\"}",
+        "message_id": "guest23072024132028",
+        "timestamp": "23072024132034",
+        "component_file_name": "simple_hero_component_1721740712",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Thanks for letting me know. I will create a Get Started button with green background and white text.",
+        "message_id": "guest23072024132028",
+        "timestamp": "23072024132030",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Make Get Started button with Green background and white text",
+        "message_id": "guest23072024132028",
+        "timestamp": "23072024132030",
+        "component_file_name": "simple_hero_component_1721740712",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the header text change to apply across all pages or only specific ones?\", \"option1\": \"Apply the change across all pages\", \"option2\": \"Apply the change only to specific pages (please specify which ones)\"}, {\"question 2\": \"Do you have a preferred font style or size for the new header text 'Food make life'?\", \"option1\": \"Use the default font style and size\", \"option2\": \"I have a specific font style and size in mind (please specify)\"}], \"input_token_count\": 258, \"output_token_count\": 120, \"time_taken\": \"0:00:06.186588\"}",
+        "message_id": "guest23072024131931",
+        "timestamp": "23072024131941",
+        "component_file_name": "simple_hero_component_1721740712",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a customizable banner area below the header for promotional messages\", \"checked\": true}, {\"feature\": \"Implement a search bar in the header for quick menu item lookups\", \"checked\": false}, {\"feature\": \"Incorporate a language toggle in the header for multilingual support\", \"checked\": false}, {\"feature\": \"Add a notification icon in the header for order updates and news\", \"checked\": true}, {\"feature\": \"Integrate a 'Favorites' or 'Recently Ordered' quick access link in the header\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 117, \"time_taken\": \"0:00:06.076654\"}",
+        "message_id": "guest23072024131931",
+        "timestamp": "23072024131941",
+        "component_file_name": "simple_hero_component_1721740712",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll update the header to \"Food make life\".",
+        "message_id": "guest23072024131931",
+        "timestamp": "23072024131933",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Change header text to Food make life",
+        "message_id": "guest23072024131931",
+        "timestamp": "23072024131932",
+        "component_file_name": "simple_hero_component_1721740712",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "23072024132238",
         "message_id": "guest23072024132237"
     }
