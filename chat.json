@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Should the 'Get Started' button change color when hovered over or clicked?\", \"option1\": \"Yes, change color on hover/click for visual feedback.\", \"option2\": \"No, keep the button color consistent regardless of user interactions.\"}, {\"question 2\": \"Do you prefer a specific shade of green for the button's background to match your brand's color scheme?\", \"option1\": \"Yes, I will provide the exact hex code for the green shade.\", \"option2\": \"No specific shade, any visually appealing green would work.\"}], \"input_token_count\": 261, \"output_token_count\": 125, \"time_taken\": \"0:00:03.921363\"}",
+        "message_id": "guest23072024132028",
+        "timestamp": "23072024132034",
+        "component_file_name": "simple_hero_component_1721740712",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Thanks for letting me know. I will create a Get Started button with green background and white text.",
         "message_id": "guest23072024132028",
