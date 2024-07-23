@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Password field with strength indicator\", \"checked\": true}, {\"feature\": \"Remember me checkbox for easy login\", \"checked\": false}, {\"feature\": \"Sign up using social media options (Facebook, Google)\", \"checked\": true}, {\"feature\": \"Two-factor authentication for added security\", \"checked\": false}, {\"feature\": \"Password visibility toggle for user convenience\", \"checked\": true}, {\"feature\": \"User profile creation with avatar upload feature\", \"checked\": false}], \"input_token_count\": 213, \"output_token_count\": 113, \"time_taken\": \"0:00:03.489991\"}",
+        "message_id": "guest23072024132636",
+        "timestamp": "23072024132642",
+        "component_file_name": "basic_login_form_1721740898",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the username field to be mandatory or optional for users during registration?\", \"option1\": \"Mandatory\", \"option2\": \"Optional\"}, {\"question 2\": \"Do you prefer the username to have any specific restrictions, such as minimum and maximum length or allowed characters?\", \"option1\": \"Yes, apply specific restrictions\", \"option2\": \"No, any input is acceptable\"}], \"input_token_count\": 259, \"output_token_count\": 95, \"time_taken\": \"0:00:03.024517\"}",
         "message_id": "guest23072024132636",
