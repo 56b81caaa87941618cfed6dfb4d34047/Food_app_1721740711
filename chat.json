@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Thanks for letting me know. I will create a Get Started button with green background and white text.",
+        "message_id": "guest23072024132028",
+        "timestamp": "23072024132030",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Make Get Started button with Green background and white text",
         "message_id": "guest23072024132028",
