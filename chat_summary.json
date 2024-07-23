@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the header text change to apply across all pages or only specific ones?\", \"option1\": \"Apply the change across all pages\", \"option2\": \"Apply the change only to specific pages (please specify which ones)\"}, {\"question 2\": \"Do you have a preferred font style or size for the new header text 'Food make life'?\", \"option1\": \"Use the default font style and size\", \"option2\": \"I have a specific font style and size in mind (please specify)\"}], \"input_token_count\": 258, \"output_token_count\": 120, \"time_taken\": \"0:00:06.186588\"}",
         "timestamp": "23072024131941",
         "message_id": "guest23072024131931"
+    },
+    {
+        "role": "user",
+        "content": "Make Get Started button with Green background and white text",
+        "timestamp": "23072024132030",
+        "message_id": "guest23072024132028"
     }
 ]
