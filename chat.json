@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the gender selection to be a required field or optional for users?\", \"option1\": \"Required\", \"option2\": \"Optional\"}, {\"question 2\": \"Should we include options beyond 'Male' and 'Female' to make the selection more inclusive?\", \"option1\": \"Yes, include 'Non-Binary/Other' as an option\", \"option2\": \"No, just 'Male' and 'Female'\"}], \"input_token_count\": 257, \"output_token_count\": 104, \"time_taken\": \"0:00:05.064896\"}",
+        "message_id": "guest23072024132237",
+        "timestamp": "23072024132243",
+        "component_file_name": "basic_login_form_1721740898",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I understand, working on adding radio button for gender.",
         "message_id": "guest23072024132237",
