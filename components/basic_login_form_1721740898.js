@@ -20,19 +20,19 @@ Vue.component('basic_login_form_1721740898', {
               <input type="password" required class="w-full mt-2 px-3 py-2 text-black bg-transparent outline-none border border-gray-300 focus:border-purple-600 shadow-sm rounded-lg" />
             </div>
             <div>
-              <label class="font-medium">Gender</label>
+              <label class="font-medium text-gray-700">Gender</label>
               <div class="mt-2 flex space-x-4">
                 <label class="inline-flex items-center">
-                  <input type="radio" name="gender" value="male" class="form-radio text-green-600" />
-                  <span class="ml-2">Male</span>
+                  <input type="radio" name="gender" value="male" class="form-radio text-purple-600" />
+                  <span class="ml-2 text-gray-700">Male</span>
                 </label>
                 <label class="inline-flex items-center">
-                  <input type="radio" name="gender" value="female" class="form-radio text-green-600" />
-                  <span class="ml-2">Female</span>
+                  <input type="radio" name="gender" value="female" class="form-radio text-purple-600" />
+                  <span class="ml-2 text-gray-700">Female</span>
                 </label>
                 <label class="inline-flex items-center">
-                  <input type="radio" name="gender" value="other" class="form-radio text-green-600" />
-                  <span class="ml-2">Other</span>
+                  <input type="radio" name="gender" value="other" class="form-radio text-purple-600" />
+                  <span class="ml-2 text-gray-700">Other</span>
                 </label>
               </div>
             </div>
